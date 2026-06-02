@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| Anna Worrasing | Team 11 | Backend Developer | [example evidence](docs/evidence/example-student.md) | https://github.com/SANCHAIE/github101-practice/issues/35 |
 
 ---
 
